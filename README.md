@@ -10,7 +10,7 @@
 
 ### About
 
-- Pre-final year B.Tech CSE student (Class of 2028)
+- Pre-final year B.Tech CSE student
 - Full stack developer working mostly with React, Next.js and TypeScript
 - Interested in data-driven applications, simulation and time-series systems
 
@@ -35,10 +35,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aana123&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aana123&bg_color=0d1117&color=c9d1d9&line=3fb950&point=ffffff&area=true&area_color=2ea043&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
 <p align="center">
